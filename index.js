@@ -19,4 +19,3 @@ function destructivelyRemoveFirstKitten() {
 function ppendKitten(name) {
   
 }
-return
