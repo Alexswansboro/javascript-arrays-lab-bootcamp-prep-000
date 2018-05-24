@@ -16,4 +16,7 @@ function destructivelyRemoveFirstKitten() {
   kittens.shift()
   return(kittens)
 }
-function 
+function ppendKitten(name) {
+  
+}
+return
